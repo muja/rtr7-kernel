@@ -1,4 +1,4 @@
-module github.com/rtr7/kernel
+module github.com/muja/rtr7-kernel
 
 go 1.17
 
